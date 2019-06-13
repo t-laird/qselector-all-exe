@@ -1,0 +1,18 @@
+.a {
+  color: red;
+  font-size: 100;
+}
+
+.a.b {
+  color: blue;
+}
+
+.card {
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+}
+
+.card.read {
+  border: 1px solid red;
+}
